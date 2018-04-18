@@ -1,4 +1,6 @@
-﻿# YOLO for Intel/Movidius Neural Compute Stick (NCS)
+﻿# YOLO for PYNQ-Z1 and Intel/Movidius Neural Compute Stick (NCS)
+
+This project is derived from [yoloNCS](https://github.com/gudovskiy/yoloNCS) and is intended to be used on the [PYNQ-Z1](https://store.digilentinc.com/pynq-z1-python-productivity-for-zynq/ "PYNQ-Z1") board.
 
 ## News
 
